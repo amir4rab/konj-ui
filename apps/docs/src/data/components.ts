@@ -149,6 +149,20 @@ const components = {
     category: "display",
     model: "styled",
   },
+  switch: {
+    key: "switch",
+    title: "Switch",
+    description: "Simple and elegant switch, suitable for boolean values.",
+    filename: "switch.tsx",
+    internalDependencies: {
+      react: [],
+      preact: ["default-components"],
+    },
+    supports: ["preact", "react"],
+    reactType: "client",
+    category: "input",
+    model: "styled",
+  },
   tab: {
     key: "tab",
     title: "Tab",

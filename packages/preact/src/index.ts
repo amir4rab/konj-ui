@@ -14,6 +14,7 @@ export * from "./components/styled/loading";
 export * from "./components/styled/segmented-control";
 export * from "./components/styled/select";
 export * from "./components/styled/stacking-cards";
+export * from "./components/styled/switch";
 export * from "./components/styled/tab";
 
 // Hooks
