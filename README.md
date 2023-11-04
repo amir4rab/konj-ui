@@ -44,6 +44,7 @@ This project is inspired by the [shadcn/ui](https://github.com/shadcn/ui) and ma
 | Anchored Dialog   | :heavy_check_mark: | :heavy_check_mark: | Modal         |
 | Action Sheet      | :heavy_check_mark: | :heavy_check_mark: | Modal         |
 | Floating Sheet    | :heavy_check_mark: | :heavy_check_mark: | Modal         |
+| Accordion         | :heavy_check_mark: | :heavy_check_mark: | Display       |
 | Stacking Cards    | :heavy_check_mark: | :heavy_check_mark: | Display       |
 | Segmented Control | :heavy_check_mark: | :heavy_check_mark: | Display       |
 | Tab               | :heavy_check_mark: | :heavy_check_mark: | Display       |

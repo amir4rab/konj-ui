@@ -5,6 +5,18 @@ const components = {
   // ---------------------------------------- //
   // ----- Styled Components ---------------- //
   // ---------------------------------------- //
+  accordion: {
+    key: "accordion",
+    title: "Accordion",
+    description:
+      "Simple accordion, designed to preserve space with smooth animations.",
+    filename: "accordion.tsx",
+    internalDependencies: { react: [], preact: ["default-components"] },
+    supports: ["preact", "react"],
+    reactType: "client",
+    category: "display",
+    model: "styled",
+  },
   "alert-dialog": {
     key: "alert-dialog",
     title: "Alert Dialog",

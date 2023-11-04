@@ -2,6 +2,7 @@
 export * from "./components/primitive/dialog";
 
 // Styled Components
+export * from "./components/styled/accordion";
 export * from "./components/styled/action-sheet";
 export * from "./components/styled/alert-dialog";
 export * from "./components/styled/anchored-dialog";
