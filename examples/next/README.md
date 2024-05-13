@@ -96,7 +96,7 @@ const config = {
         loading: "loading-keyframes steps(4) infinite",
       },
       colors: {
-        primary: colors.green,
+        primary: colors.violet,
       },
       screens: {
         standalone: {

@@ -45,34 +45,34 @@ const config = {
     // ... //
   ],
   theme: {
-    transitionTimingFunction: {
-      elastic: "cubic-bezier(0.68, 0, 0.32, 1.2)",
-    },
-    fontFamily: {
-      sans: [
-        "system-ui",
-        "-apple-system",
-        "BlinkMacSystemFont",
-        "Segoe UI",
-        "Roboto",
-        "Oxygen",
-        "Ubuntu",
-        "Cantarell",
-        "Open Sans",
-        "Helvetica Neue",
-        "sans-serif",
-      ],
-      mono: [
-        "SF Mono",
-        "SFMono-Regular",
-        "ui-monospace",
-        "DejaVu Sans Mono",
-        "Menlo",
-        "Consolas",
-        "monospace",
-      ],
-    },
     extend: {
+      transitionTimingFunction: {
+        elastic: "cubic-bezier(0.68, 0, 0.32, 1.2)",
+      },
+      fontFamily: {
+        sans: [
+          "system-ui",
+          "-apple-system",
+          "BlinkMacSystemFont",
+          "Segoe UI",
+          "Roboto",
+          "Oxygen",
+          "Ubuntu",
+          "Cantarell",
+          "Open Sans",
+          "Helvetica Neue",
+          "sans-serif",
+        ],
+        mono: [
+          "SF Mono",
+          "SFMono-Regular",
+          "ui-monospace",
+          "DejaVu Sans Mono",
+          "Menlo",
+          "Consolas",
+          "monospace",
+        ],
+      },
       keyframes: {
         "opacity-keyframes": {
           "0%": {
@@ -97,7 +97,7 @@ const config = {
       },
       colors: {
         // You can modify the primary color to your linking
-        primary: colors.green,
+        primary: colors.violet,
       },
       screens: {
         standalone: {
